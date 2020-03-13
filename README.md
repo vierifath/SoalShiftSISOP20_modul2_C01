@@ -169,9 +169,13 @@ if ((chdir("/")) < 0)
 }        
 ```
 
-
+* Source code file.sh
 ```
-        
+#!/bin/bash
+mkdir "$(date)"        
+```
+
+
      
         
         
