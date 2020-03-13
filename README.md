@@ -175,6 +175,8 @@ if ((chdir("/")) < 0)
 mkdir "$(date)"        
 ```
 
+* Bukti Output
+![kjwadaghk](https://user-images.githubusercontent.com/61290164/76613885-9385d780-6551-11ea-9cf4-87a82ea9d42b.PNG)
 
      
         
