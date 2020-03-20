@@ -1,3 +1,3 @@
 #!/bin/bash
 
-mkdir "$(date)"
+date >> /home/vierifath/SOALMODUL2/date.txt
