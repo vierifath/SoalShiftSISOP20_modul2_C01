@@ -27,7 +27,7 @@ Contoh: ./program \* 34 7 /home/somi/test.sh
 
 
 ### SOURCE CODE
-
+https://github.com/vierifath/SoalShiftSISOP20_modul2_C01/blob/master/soal1/soal1.c
 
 ## PEMBAHASAN
 A. Menginisialiasasi main() dengan 2 argumen, yang pertama yaitu argc (Argument Count) dan *argv[] (Argument Vector). Argumen pertama adalah jumlah argumen baris perintah dan yang kedua adalah daftar argumen baris perintah.
